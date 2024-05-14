@@ -1,3 +1,4 @@
+from __future__ import annotations
 from typing import Optional
 
 from highcharts_core.options.plot_options.series import SeriesOptions

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Convenience module that imports all classes from the entire library."""
 
 from highcharts_core.chart import *

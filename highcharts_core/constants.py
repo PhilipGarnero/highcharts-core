@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Defines a set of constants that are used throughout the library."""
 import os
 try:

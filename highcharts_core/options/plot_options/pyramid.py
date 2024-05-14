@@ -1,3 +1,4 @@
+from __future__ import annotations
 from highcharts_core.options.plot_options.funnel import FunnelOptions, Funnel3DOptions
 
 

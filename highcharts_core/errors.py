@@ -1,3 +1,4 @@
+from __future__ import annotations
 
 class HighchartsError(ValueError):
     """Basic error that all other Highcharts for Python exceptions inherit from."""

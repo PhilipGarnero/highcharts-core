@@ -1,3 +1,4 @@
+from __future__ import annotations
 from typing import Optional, List
 
 from validator_collection import validators, checkers

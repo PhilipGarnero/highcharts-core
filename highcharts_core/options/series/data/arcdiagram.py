@@ -1,3 +1,4 @@
+from __future__ import annotations
 from typing import Optional, List, Dict
 from decimal import Decimal
 from collections import UserDict

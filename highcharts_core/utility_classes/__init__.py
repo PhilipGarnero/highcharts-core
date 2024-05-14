@@ -1,3 +1,4 @@
+from __future__ import annotations
 from highcharts_core.utility_classes.animation import AnimationOptions
 from highcharts_core.utility_classes.ast import (ASTMap,
                                                    ASTNode,

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Set of metaclasses used throughout the library."""
 import datetime
 from abc import ABC, abstractmethod

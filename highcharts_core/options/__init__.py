@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Implements the :class:`HighchartsOptions` class."""
 from typing import Optional, List
 

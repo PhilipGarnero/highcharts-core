@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Collection of utility functions used across the library."""
 import csv
 import datetime

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Implements the Python representation of the Accessibility module."""
 from typing import Optional, Any
 from copy import deepcopy

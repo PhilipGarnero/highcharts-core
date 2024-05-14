@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Implements decorators used throughout the library."""
 import json
 from functools import wraps
